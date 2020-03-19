@@ -36,7 +36,7 @@ You can change the colors and manipulate the rows by using some operations (righ
 
 # Screenshots
 
-After you clicked 'get file explorer' button and selected an input file
+After you clicked 'get file' button and selected an input file
 
 ![Image description](Pictures/Picture2.png)
 
