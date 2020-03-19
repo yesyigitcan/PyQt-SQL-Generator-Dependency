@@ -20,3 +20,26 @@ You can find the sample excel file ('Dependency_Sample_Input.xlsx') that you nee
 
 # Language
 Main functions in the application is written in English but some parts, especially in hint box, are written in Turkish. All variable and function names are in English.
+
+# Need to Know
+There are different colors used to present different states of a row. 
+
+  1) Green is used to state that db has the record and you repeat the row in the input file.
+
+  2) Gray is used to state that db has the record but you didn't repeat the row in the input file.
+
+  3) Yellow is used to state that db has not the record and you give a new row and there are missing columns.
+
+  4) Blue is used to state you filled the missing yellow columns and row is ready to be inserted into db.
+
+You can change the colors and manipulate the rows by using some operations (right click to see).
+
+# Screenshots
+
+After you clicked 'get file explorer' button and selected an input file
+
+![Image description](Pictures/Picture2.png)
+
+After you clicked 'accept' button
+
+![Image description](Pictures/Picture3.png)
