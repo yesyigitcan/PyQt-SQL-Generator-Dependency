@@ -8,3 +8,9 @@ You need to have pyinstaller package and ofcourse python interpreter.
 
 # Build
 You need to run 'pyinstaller App.py' command in console and then you need to copy GUI and ICON folders into dist/App directory after you ran the command.
+
+# How to Change
+You can change the lines that stated as <<<MASKED>>> in 'App.py'.
+
+# Check
+You can find the sample excel file that you need to have to use this application.
